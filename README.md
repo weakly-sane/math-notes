@@ -31,11 +31,11 @@ Start with a template:
 
 See [Writing conventions](STYLEGUIDE.md) for notation, references, and proof style.
 
-GitHub renders mathematics in Markdown using inline \`$...$\` and display \`$$...$$\`. For a longer typeset document, use the LaTeX template.
+GitHub renders mathematics in Markdown using inline `$...$` and display `$$...$$`. For a longer typeset document, use the LaTeX template.
 
 ## Repository layout
 
-\`\`\`text
+```text
 notes/
   measure-theory/
   probability/
@@ -45,7 +45,7 @@ research/
   navier-stokes/
 templates/
 STYLEGUIDE.md
-\`\`\`
+```
 
 ## A note on accuracy
 
