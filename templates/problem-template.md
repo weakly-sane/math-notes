@@ -11,9 +11,6 @@
 
 [Give a complete and rigorous proof.]
 
-$$
-% Insert a key displayed equation if useful.
-$$
 
 $\square$
 
