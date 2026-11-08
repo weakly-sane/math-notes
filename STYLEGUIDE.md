@@ -23,16 +23,16 @@ Within a course, retain its theorem numbering when citing the textbook, e.g. “
 
 ## Markdown mathematics
 
-Inline: \`$f \in L^p(\Omega)$\`.
+Inline: `$f \in L^p(\Omega)$`.
 
 Display:
 
-\`\`\`text
+```text
 $$
 \|f\|_{L^p(\Omega)}
 = \left(\int_\Omega |f|^p\,dx\right)^{1/p}.
 $$
-\`\`\`
+```
 
 Prefer a single math display for a connected calculation. Explain any nontrivial inequality or change of variables.
 
